@@ -18,7 +18,7 @@ And as we are going to use **[Github Actions](https://github.com/features/action
 
 ## What's going on? 
 
-Using Github Actions, on each commit touching it, the file `locales/en.json` is automatically uploaded to the [Localazy translation platform](https://localazy.com) where all the translations as well as translators, contributors and volunteers can be easily managed using beautiful UI.
+Using Github Actions, äl on each commit touching it, the file `locales/en.json` is automatically uploaded to the [Localazy translation platform](https://localazy.com) where all the translations as well as translators, contributors and volunteers can be easily managed using beautiful UI.
 
 Another Github action demonstrates how to download all localized strings when building the final release of the app. 
 
