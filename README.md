@@ -31,7 +31,7 @@ And as a bonus, **Localazy can translate your app to up to 80 languages for free
 - How to set up project with Localazy as a localization solution
 
 - How to ignore localizable files except for the source language and why you should
-
+ ds
 - How to store credentials using Github Secrets and how to use them with Github Actions
 
 - How to automatically upload strings for localization whenever the source language file is changed
