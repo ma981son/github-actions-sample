@@ -8,7 +8,7 @@ jobs:
     name: Download strings from Localazy
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
       - uses: localazy/download@v1
         with:
           read_key: ${{ secrets.LOCALAZY_READ_KEY }}
