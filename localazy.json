@@ -1,6 +1,5 @@
 {
-  "readKey": "a8083903929939615808-30d4193e2614d3361947017203f0e77a74e7984ffff26594450069f711adf837",
-  "writeKey": "a8083903929939615808-68a4a3bc31d46a46efcfa5e875ef95654f677552ed3d24df4960ef622bf9a7d7",
+  
   "upload": {  
     "type": "json",
     "files": "locales/en.json"         
